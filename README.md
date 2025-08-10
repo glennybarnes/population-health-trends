@@ -22,5 +22,6 @@ It combines **Power BI** for interactive dashboards with **Python** for statisti
 - `README.md` – Project documentation
 
 ## 🖼 Dashboard Preview
-![Dashboard Screenshot](dashboard_preview.png)
+<img width="1190" height="714" alt="Screenshot 2025-08-09 at 8 25 33 PM" src="https://github.com/user-attachments/assets/922ed745-1485-4616-8fe6-20c3e694eb6f" />
+
 
