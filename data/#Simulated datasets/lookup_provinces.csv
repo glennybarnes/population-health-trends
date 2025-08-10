@@ -1,0 +1,14 @@
+province_code,province,region,rural_pct
+NL,Newfoundland and Labrador,Atlantic,41
+PE,Prince Edward Island,Atlantic,46
+NS,Nova Scotia,Atlantic,43
+NB,New Brunswick,Atlantic,48
+QC,Quebec,Quebec,20
+ON,Ontario,Ontario,15
+MB,Manitoba,Prairies,43
+SK,Saskatchewan,Prairies,34
+AB,Alberta,Prairies,17
+BC,British Columbia,British Columbia,19
+YT,Yukon,Territories,61
+NT,Northwest Territories,Territories,59
+NU,Nunavut,Territories,82
